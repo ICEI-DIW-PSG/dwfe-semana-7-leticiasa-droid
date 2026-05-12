@@ -4,13 +4,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Letícia de Sá Ribeiro Lacerda
+- Matricula: 926758
 
 ## Print do console do navegador
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-
+![Execução](public/Console%20do%20navegador.jpg)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
